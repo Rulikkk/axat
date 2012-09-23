@@ -1,0 +1,9 @@
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\bin\Debug\Axat.exe.config
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\bin\Debug\Axat.XML
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\bin\Debug\Axat.exe
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\bin\Debug\Axat.pdb
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\bin\Debug\FSharp.Core.dll
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\bin\Debug\FSharp.Core.xml
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\obj\Debug\Axat.fsprojResolveAssemblyReference.cache
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\obj\Debug\Axat.exe
+c:\users\rulikkk\documents\visual studio 11\Projects\Axat\Axat\obj\Debug\Axat.pdb
